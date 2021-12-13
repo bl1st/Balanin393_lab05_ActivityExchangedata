@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">lab05-ActivityExchangedata</string>
+    <string name="button_Exchange">Send to activity 2</string>
+    <string name="button_ExchangeBack">Send to main activity</string>
+    <string name="button_Exit">Exit</string>
+    <string name="button_AnotherAct">OK</string>
+    <string name="Flag_1">Flag 1</string>
+    <string name="Flag_2"> Flag 2</string>
+    <string name="button_showdialog">Show Dialog</string>
+    <string name="balaninEduard393">Balanin 393 lab 05 Activity exchange</string>
+
+</resources>
